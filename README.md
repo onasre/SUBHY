@@ -42,17 +42,3 @@ A comprehensive desktop (Windows) application designed as a digital archive for 
 * **قاعدة البيانات:** [مثال: SQLite / MS Access]
 
 ---
-
-## 💻 للمطورين | For Developers
-
-إذا كنت مطوراً وتريد تشغيل المشروع محلياً والتعديل على الكود:
-
-```bash
-# 1. استنساخ المستودع
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-
-# 2. الانتقال إلى مجلد المشروع
-cd YourRepoName
-
-# 3. فتح المشروع بواسطة بيئة التطوير الخاصة بك (مثال: Visual Studio)
-# ثم قم بعمل Build وتشغيل للمشروع.
