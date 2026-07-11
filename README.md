@@ -1,6 +1,9 @@
 # SUBHY
  مهم مهم مهم
  عند فتح التطبيق في ويندوز سيعطي رسالة تحذيرية . السبب ان البرنامج غير موقع بشهادة ديجيتال عالمية .
+
+ رابط تحميل التطبيق
+ https://github.com/onasre/SUBHY/releases/tag/v1.0.0
  
 A comprehensive desktop (Windows) application designed as a digital archive for the intellectual works, books, and articles of Islamic thinker Dr. Ahmed Subhy Mansour. The application provides offline access to his entire literary catalogue, featuring advanced text search capabilities and an optimized reading interface
 
@@ -30,8 +33,8 @@ A comprehensive desktop (Windows) application designed as a digital archive for 
 
 ## 🚀 التحميل والتشغيل | Download & Installation
 
-للمستخدمين الراغبين في تشغيل التطبيق مباشرة دون الدخول في تفاصيل الكود البرمجي:
-1. اذهب إلى صفحة **[Releases](رابط_صفحة_الـ_releases_هنا)** في هذا المستودع.
+للمستخدمين الراغبين في تشغيل التطبيق مباشرة دون الدخول في تفاصيل الكود البرمجي
+:https://github.com/onasre/SUBHY/releases/tag/v1.0.0
 2. قم بتحميل أحدث نسخة من ملف التثبيت المدمج أو الملف التنفيذي `(.exe)`.
 3. افتح الملف واتبع خطوات التثبيت على نظام ويندوز.
 
